@@ -99,7 +99,7 @@ workaround:
 ### 生存技巧
 
 * [选课原则与选课技巧](sheng-cun-ji-qiao/untitled/)
-  * [我是否一定要选二专？](sheng-cun-ji-qiao/untitled/wo-shi-fou-yi-ding-yao-xuan-er-zhuan.md)
+  * [我是否一定要选辅修？](sheng-cun-ji-qiao/untitled/wo-shi-fou-yi-ding-yao-xuan-fu-xiu.md)
   * [选课选什么](sheng-cun-ji-qiao/untitled/xuan-ke-xuan-shen-me.md)
   * [广占坑，占好坑](sheng-cun-ji-qiao/untitled/guang-zhan-keng-zhan-hao-keng.md)
 * [人文、经管类课程](fu-lu/ren-wen-jing-guan-lei-ke-cheng/)
@@ -117,7 +117,7 @@ workaround:
   * [风险与收益并存](sheng-cun-ji-qiao/zheng-que-jie-du-cheng-ji-suan-fa/feng-xian-yu-shou-yi-bing-cun.md)
 * [旁门左道](sheng-cun-ji-qiao/pang-men-zuo-dao/)
   * [开学前两周的点名](sheng-cun-ji-qiao/pang-men-zuo-dao/kai-xue-qian-liang-zhou-de-dian-ming.md)
-  * [理解“免听”](sheng-cun-ji-qiao/pang-men-zuo-dao/li-jie-mian-ting.md)
+  * [善用GPT](sheng-cun-ji-qiao/pang-men-zuo-dao/shan-yong-gpt.md)
   * [形势政策考试](sheng-cun-ji-qiao/pang-men-zuo-dao/xing-shi-zheng-ce-kao-shi.md)
   * [物理实验](sheng-cun-ji-qiao/pang-men-zuo-dao/wu-li-shi-yan.md)
   * [学术灌水](sheng-cun-ji-qiao/pang-men-zuo-dao/xue-shu-guan-shui.md)
@@ -134,4 +134,3 @@ workaround:
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SurviveSJTU/SurviveSJTUManual&type=Date" />
  </picture>
 </a>
-

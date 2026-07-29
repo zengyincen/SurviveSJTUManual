@@ -1,2 +1,5 @@
 *.pdf
 *.epub
+node_modules/
+_site/
+.vitepress-cache/
