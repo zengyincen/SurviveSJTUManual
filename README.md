@@ -127,10 +127,10 @@ workaround:
 
 ### Star History
 
-<a href="https://www.star-history.com/#SurviveSJTU/SurviveSJTUManual&Date">
+<a href="https://starhistory.link/SurviveSJTU/SurviveSJTUManual">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SurviveSJTU/SurviveSJTUManual&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=SurviveSJTU/SurviveSJTUManual&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SurviveSJTU/SurviveSJTUManual&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://starhistory.link/SurviveSJTU/SurviveSJTUManual.svg?theme=blue&amp;style=glass&amp;v=1" />
+   <source media="(prefers-color-scheme: light)" srcset="https://starhistory.link/SurviveSJTU/SurviveSJTUManual.svg?theme=blue&amp;style=light&amp;v=1" />
+   <img alt="SurviveSJTUManual Star History Chart" src="https://starhistory.link/SurviveSJTU/SurviveSJTUManual.svg?theme=blue&amp;style=light&amp;v=1" />
  </picture>
 </a>
