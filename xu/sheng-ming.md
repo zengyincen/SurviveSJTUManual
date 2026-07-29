@@ -6,7 +6,7 @@
 
 本手册作者不能保证手册内容中没有对其他组织的误解和偏见。手册内容的正确性并没有经过权威审查，手册作者无法保证手册中的方法始终有效。手册作者亦无力确认手册是否违反了读者所在地的各种法规，请各位读者参照当地行政规定。如有违反，请您停止阅读并立即销毁手册的任何副本。对于未经授权传播手册而造成的各种问题，手册作者概不负责。手册作者无法确定手册内容是否会对读者身心健康产生不良影响。如果您未满18岁，或因阅读手册而产生不适，请立即停止阅读并咨询心理医生。
 
-本书编委会欢迎接受您的指教。如果您对本书内容有任何问题、或建议，请联络我们：survivesjtu @ gmail.com。我们并不保证回复每一封邮件，但是我们会认真接受并思考您的意见，并在后续版本中做出相应的改进。
+本书编委会欢迎接受您的指教。如果您对本书内容有任何问题、或建议，请联络我们：survivesjtu@gmail.com。我们并不保证回复每一封邮件，但是我们会认真接受并思考您的意见，并在后续版本中做出相应的改进。
 
 在以下网站上，我们将会提供本书最新电子版下载： [http://sites.google.com/site/survivesjtu/](http://sites.google.com/site/survivesjtu/) [http://hi.baidu.com/survivesjtu/blog/](http://hi.baidu.com/survivesjtu/blog/) [http://blog.sina.com.cn/survivesjtu/](http://blog.sina.com.cn/survivesjtu/)
 
